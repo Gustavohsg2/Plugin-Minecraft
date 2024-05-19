@@ -1,0 +1,9 @@
+name: Projeto
+main: projeto.ProjetoBasileia
+version: 1.0
+author: Gustavohsg4
+description: Meu primeiro plugin básico para conhecer os comandos.
+commands:
+  ajuda:
+    aliases: helpme
+    description: Comando de pedir ajuda.
